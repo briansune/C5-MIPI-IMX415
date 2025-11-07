@@ -39,8 +39,8 @@ paypal.me/briansune
 
 | HW no | Description | Image |
 |-|-|-|
-| 1 | CMOS (camera) | <img src="images/imx415.png" style="width=200">
-| 2 | Development Board | <img src="images/EVM.JPG" style="width=200">
+| 1 | CMOS (camera) | <img src="images/imx415.png" width="200"/> |
+| 2 | Development Board | <img src="images/EVM.JPG" width="200"/> |
 
 # Feature and Support
 
@@ -52,7 +52,7 @@ paypal.me/briansune
 
 # CMOS Capture image
 
-<img src="images/frame_color.png" style="height:10%; width:10%">
+<img src="images/frame_color.png" width="600"/>
 
 # ToDo
 
